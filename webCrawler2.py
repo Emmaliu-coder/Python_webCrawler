@@ -1,7 +1,6 @@
 # 教學 https://ithelp.ithome.com.tw/articles/10202121
 # pip報錯 https://www.crifan.com/windows_python_install_error_could_not_install_/
 
-
 import requests
 from bs4 import BeautifulSoup
 
